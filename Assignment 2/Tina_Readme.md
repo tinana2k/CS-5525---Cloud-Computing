@@ -18,19 +18,13 @@ deploy a simple HTML page across multiple cloud environments.
 
 ------------------------------------------------------------------------
 
-# Live Deployments
+## 🌐 Live Deployments
 
-  -----------------------------------------------------------------------------------------------------------------------------------------
-  Platform           URL                                                                              Hosting Method
-  ------------------ -------------------------------------------------------------------------------- -------------------------------------
-  AWS                https://tina-nguyen-assignment2-aws-2026.s3.us-east-2.amazonaws.com/index.html   Amazon S3 Static Website
-
-  GCP                https://storage.googleapis.com/tina-nguyen-assignment2-gcp-2026/index.html       Google Cloud Storage
-
-  Azure              https://tinanguyenassign2azure.z19.web.core.windows.net/                         Azure Blob Storage Static Website
-  -----------------------------------------------------------------------------------------------------------------------------------------
-
-------------------------------------------------------------------------
+| Platform | URL | Hosting Method |
+|----------|-----|----------------|
+| **AWS** | https://tina-nguyen-assignment2-aws-2026.s3.us-east-2.amazonaws.com/index.html | Amazon S3 Static Website |
+| **GCP** | https://storage.googleapis.com/tina-nguyen-assignment2-gcp-2026/index.html | Google Cloud Storage |
+| **Azure** | https://tinanguyenassign2azure.z19.web.core.windows.net/ | Azure Blob Storage Static Website |
 
 # Web Page
 
@@ -104,19 +98,15 @@ Steps performed:
 
 # Platform Comparison
 
-  -----------------------------------------------------------------------
-  Feature           AWS               GCP               Azure
-  ----------------- ----------------- ----------------- -----------------
-  Deployment Type   PaaS              PaaS              PaaS
+ ## 📊 Platform Comparison
 
-  Setup Difficulty  Easy              Medium            Easy
-
-  Server Management None              None              None
-
-  Deployment Speed  \~5 minutes       \~5 minutes       \~5 minutes
-
-  Access Control    Bucket Policy     IAM Permissions   Storage Access
-                                                        Control
+| Feature | ☁️ AWS | 🌐 GCP | 🔷 Azure |
+|--------|-----|-----|------|
+| Deployment Type | PaaS | PaaS | PaaS |
+| Setup Difficulty | Easy | Medium | Easy |
+| Server Management | None | None | None |
+| Deployment Speed | ~5 minutes | ~5 minutes | ~5 minutes |
+| Access Control | Bucket Policy | IAM Permissions | Storage Access Control |
   -----------------------------------------------------------------------
 
 ------------------------------------------------------------------------
