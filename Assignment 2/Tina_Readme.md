@@ -106,7 +106,7 @@ Steps performed:
 | Setup Difficulty | Easy | Medium | Easy |
 | Server Management | None | None | None |
 | Deployment Speed | ~5 minutes | ~5 minutes | ~5 minutes |
-| Access Control | Bucket Policy | IAM Permissions | Storage Access Control |
+| Access Control | Bucket Policy | Bucket Permissions/Access | Storage Access Control |
   -----------------------------------------------------------------------
 
 ------------------------------------------------------------------------
