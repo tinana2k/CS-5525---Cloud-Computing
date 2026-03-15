@@ -1,4 +1,4 @@
-# Assignment 2 --- Multi-Cloud Web Deployment
+# Assignment 2 --- Deploy the web page on Cloud platforms
 
 **Course:** CS 5525 --- Cloud Computing\
 **Student:** Tina Nguyen\
