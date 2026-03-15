@@ -129,7 +129,7 @@ For future classes, it would be helpful to include a brief overview of common cl
 -   Amazon S3
 -   Google Cloud Storage
 -   Microsoft Azure Blob Storage
--   Cloud IAM / Access Policies
+-   Cloud Storage -- Bucket Access Policies
 
 ------------------------------------------------------------------------
 
@@ -149,6 +149,6 @@ Assignment_2/
 # Author
 
 **Tina Nguyen**\
-MS Data Science & Analytics\
+MS Computer Science\
 University of Missouri -- Kansas City\
 CS 5525 --- Cloud Computing
