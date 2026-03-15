@@ -123,18 +123,13 @@ Steps performed:
 
 # Epilog
 
-This assignment provided hands-on experience deploying a web page across
-multiple cloud providers. AWS S3 and Azure Blob Storage made static
-website deployment very straightforward because both services provide
-built-in static hosting features. Google Cloud required additional
-configuration for public access permissions, which helped demonstrate
-how IAM policies work within cloud environments.
+Through this assignment, I gained practical experience deploying a simple HTML webpage across three major cloud platforms: Amazon Web Services (AWS), Google Cloud Platform (GCP), and Microsoft Azure. One important lesson I learned is how similar the fundamental process of cloud deployment is across providers, even though their interfaces and terminology differ. Each platform required creating resources, configuring access permissions, uploading the HTML file, and ensuring that the webpage was publicly accessible.
 
-Through this assignment, I gained a better understanding of how cloud
-platforms handle web hosting, storage services, and security
-permissions. It also highlighted how similar the deployment processes
-are across major cloud providers, even though their interfaces and
-terminology differ.
+The most challenging part of the assignment was configuring access permissions correctly, especially when dealing with public access restrictions and IAM policies, which initially prevented the webpage from being visible online. However, troubleshooting these issues helped me better understand how cloud security settings work. Among the three platforms, I found AWS S3 and Azure Blob Storage the easiest and most enjoyable to use because they provide built-in static website hosting, allowing the webpage to be deployed quickly without managing a server. Google Cloud required slightly more configuration for bucket permissions, which made the process a bit more complex but also more educational. 
+
+Overall, this assignment helped me understand the similarities and differences between major cloud providers and strengthened my understanding of cloud storage, hosting services, and access control. 
+
+For future classes, it would be helpful to include a brief overview of common cloud permission settings and security configurations beforehand, since many deployment issues arise from incorrect access policies rather than problems with the application itself.
 
 ------------------------------------------------------------------------
 
@@ -154,10 +149,10 @@ Assignment_2/
 
 -   index.html\
 -   README.md\
--   images/
-    -   aws/\
-    -   gcp/\
-    -   azure/
+-   screenshots/
+    -   AWS/\
+    -   Azure/\
+    -   Google Cloud Platform/
 
 ------------------------------------------------------------------------
 
